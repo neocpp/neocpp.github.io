@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+permalink: /:year/:month/:day/:title.html
+paginate:10
+author:
+  name:博约
+  email:mail.chengbo@gmail.com
+  link:neocpp.github.io
+title:
+  博约的家
+locals:
+  tags:标签
+  about:关于
+markdown:redcarpet
