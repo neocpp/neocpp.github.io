@@ -1,1 +1,3 @@
 baseurl:/neocpp.github.io
+
+theme: jekyll-theme-slate
